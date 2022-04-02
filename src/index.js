@@ -27,6 +27,16 @@ const messages = [
     "Monoteísmo: Es la creencia en un solo dios todopoderoso, a diferencia de las religiones que creen en varios dioses",
     "Ergonómico: [muebles, máquinas, herramientas] Que se adaptan en sus dimensiones y en la disposición de sus elementos a las condiciones fisiológicas del usuario",
     "Apuntillar: Clavar la puntilla al toro para rematarlo, de modo que tenga una muerte rápida. Dar [una persona] un golpe definitivo [a otra persona]",
+    "Canillera: Accesorio que proteje los huesos de la pierna ante posibles golpes que pueda tener quien está practicando el fútbol",
+    "Epaulette: Labor o adorno especial de los vestidos en la parte correspondiente a los hombros. Hombrera, charretera",
+    "Inculcar: Infundir con ahínco una idea o concepto. Apretar una cosa contra otra",
+    "Infatuación: Un estado emocional caracterizado por el dejarse llevar por una pasión irracional, especialmente por un amor adictivo",
+    "Tarasca: Figura de serpiente monstruosa, con boca muy grande, que en algunos lugares se saca en la procesión del Corpus Cristi",
+    "Bisunto: Que está sucio y grasiento",
+    "Ojiprieto: Que tiene los ojos oscuros, casi negros",
+    "Kaizen: Término japonés que signigica la práctica de la mejora continua: 'Hoy mejor que ayer, mañana mejor que hoy'",
+    "Estratosférico: Referido a la zona superior de la atmósfera entre los 12 y los 100 kilómetros de altura. Que está fuera de nuestro alcance o que rebasa los límites convencionales",
+    "Botarate: [Persona] atolondrada y poco sensata. [Persona] derrochadora, que gasta en exceso",
 ];
 
 /*----------  Functions  ----------*/
