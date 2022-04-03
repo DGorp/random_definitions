@@ -1,6 +1,6 @@
 {
   "name": "random_definitions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random definitions generator",
   "main": "src/index.js",
   "scripts": {
