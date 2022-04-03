@@ -23,3 +23,33 @@
 - We logged in onto our npm account
 - We fixed name troubleshooting with our module, new name added: *random_definition*
 - We publish our module with the next command: `npm publish`
+
+## Fourth class
+
+- We completed our: *README.md* and added a git remote repository: *random_definitions*
+- We updated our module version: `npm version patch`
+
+## Random_definitions
+
+Random definitions generator.
+Follow these instructions if you want to get your hands on my NPM package...
+
+### Install
+
+``` npm
+npm install -g random_definitions
+```
+
+### Usage
+
+``` bash
+random-def
+```
+
+### Contributing
+
+If you want to add or improve something, you're open to do so directly on this repository: [random_definitions](https://github.com/DGorp/random_definitions)
+
+### License
+
+random_definitions was released under the [MIT License](https://opensource.org/licenses/MIT)
